@@ -2,12 +2,12 @@
 
 ## Background Information: HyperUnicorn
 - Vault activity - users deposit into a vault, which actively market-makes and manages positions on their behalf.
-- Direct trading activity — advanced users create and manage their own custom positions.
+- Direct trading activity - advanced users create and manage their own custom positions.
 
 
 ### How I approached the problem
 
-First, I tried to understand the protocol mechanics. As I don't have a background in perpetual protocols, I tried to follow the steps. Still, I didn't fully understand how some mechanisms work — for example, the funding system: `HyperUnicorn liquidity demand and supply`, `imbalance between different types of positions`, and how costs and rewards adjust dynamically based on supply and demand. These are very general descriptions, and without knowledge of a real protocol, they are hard to understand.
+First, I tried to understand the protocol mechanics. As I don't have a background in perpetual protocols, I tried to follow the steps. Still, I didn't fully understand how some mechanisms work - for example, the funding system: `HyperUnicorn liquidity demand and supply`, `imbalance between different types of positions`, and how costs and rewards adjust dynamically based on supply and demand. These are very general descriptions, and without knowledge of a real protocol, they are hard to understand.
 
 **So I decided to set this complicated part aside and focus on the parts I understood fully, relying only on those.**
 
@@ -18,7 +18,7 @@ These parts are:
 - Their "activity" is essentially: deposit / hold / withdraw.
 
 **2. Direct traders (active)**
-- Create and manage their own custom Uniswap LP positions — choosing price ranges, sizing, and which assets to provide.
+- Create and manage their own custom Uniswap LP positions - choosing price ranges, sizing, and which assets to provide.
 - Can combine option-like LP positions to construct synthetic exposures (e.g. long call + short put = synthetic long).
 - Manage their positions over time (open, adjust, close).
 
@@ -26,12 +26,12 @@ To keep things simple, I stopped here and decided to cover only two types of act
 
 **Why I made this decision:** these two cover protocol activity for essentially all user types, and they are easier to reason about and explain.
 
-I also iterated several times, and one factor stood out as critical across all activities: **time**. For example, for deposited funds, duration is the key signal of protocol loyalty — together, of course, with volume.
+I also iterated several times, and one factor stood out as critical across all activities: **time**. For example, for deposited funds, duration is the key signal of protocol loyalty - together, of course, with volume.
 
 For LP positions, duration matters too, but there are additional factors:
 
-1. **Liquidity range size** — if an LP provides a very wide range, it's a strong sign of lazy/farming behavior.
-2. **Fake liquidity** — when the range sits far from the current price and is never actually in range. This kind of farming is detectable.
+1. **Liquidity range size** - if an LP provides a very wide range, it's a strong sign of lazy/farming behavior.
+2. **Fake liquidity** - when the range sits far from the current price and is never actually in range. This kind of farming is detectable.
 
 ---
 
@@ -58,8 +58,8 @@ For LP positions, duration matters too, but there are additional factors:
 vault_points_daily = sqrt(deposit_amount) × time_multiplier
 ```
 Where:
-**sqrt(deposit_amount)** — sub-linear capital reward. A 10,000 USDC depositor gets ~3.16x the points of a 1,000 USDC depositor, not 10x.
-**time_multiplier** — grows with how long the deposit has been held continuously:
+**sqrt(deposit_amount)** - sub-linear capital reward. A 10,000 USDC depositor gets ~3.16x the points of a 1,000 USDC depositor, not 10x.
+**time_multiplier** - grows with how long the deposit has been held continuously:
 
 
 - Days 1–7: 0.5x (cooling-off period; discourages quick deposit-flips)
@@ -78,21 +78,21 @@ Where:
 
 **Where:**
 
-**sqrt(position_size)** — same sub-linear capital scaling as vault.
-range_quality — penalizes lazy and gaming behavior:
+**sqrt(position_size)** - same sub-linear capital scaling as vault.
+range_quality - penalizes lazy and gaming behavior:
 
 - Range width is measured as a percentage around spot price. 
 - A "tight enough" range (say, within ±20% of spot at open) → 1.0
 - Very wide range (±100% or wider) → 0.3
 - Linear interpolation between these.
 
-**time_in_range_ratio** — fraction of the day the position's range actually contained the spot price.
+**time_in_range_ratio** - fraction of the day the position's range actually contained the spot price.
 
 - In range all day → 1.0
 - Never in range → 0.0
 - This single multiplier kills "fake liquidity" farming. Out-of-range positions earn ~zero.
 
-**duration_multiplier** — same shape as vault's time_multiplier, rewarding long-lived positions.
+**duration_multiplier** - same shape as vault's time_multiplier, rewarding long-lived positions.
 
 
 

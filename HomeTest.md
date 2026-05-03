@@ -12,8 +12,8 @@ HyperUnicorn is a hypothetical DeFi protocol that enables users to trade perpetu
 
 The protocol supports two types of activity:
 
-* **Vault activity** — users deposit into a vault, which actively market makes and manages positions on their behalf  
-* **Direct trading activity** — advanced users create and manage their own custom positions
+* **Vault activity** - users deposit into a vault, which actively market makes and manages positions on their behalf  
+* **Direct trading activity** - advanced users create and manage their own custom positions
 
 For more info, please see [this](./HyperUnicorn.md).
 

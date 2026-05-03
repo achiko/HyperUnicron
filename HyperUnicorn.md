@@ -12,9 +12,9 @@ A perpetual futures contract (“perp”) allows users to take long or short exp
 
 Key properties:
 
-* No expiry — positions can be held indefinitely  
-* Funding mechanism — periodic payments between participants keep prices aligned with the underlying asset  
-* Long / short symmetry — users can express directional views in either direction
+* No expiry - positions can be held indefinitely  
+* Funding mechanism - periodic payments between participants keep prices aligned with the underlying asset  
+* Long / short symmetry - users can express directional views in either direction
 
 ---
 
