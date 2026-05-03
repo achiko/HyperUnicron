@@ -1,0 +1,212 @@
+[
+  {
+    "userId": "u28",
+    "userName": "Bob-028",
+    "archetype": "hybrid_user",
+    "totalPoints": 6033,
+    "activityCount": 53
+  },
+  {
+    "userId": "u21",
+    "userName": "Uma-021",
+    "archetype": "hybrid_user",
+    "totalPoints": 5564,
+    "activityCount": 52
+  },
+  {
+    "userId": "u14",
+    "userName": "Nia-014",
+    "archetype": "hybrid_user",
+    "totalPoints": 5369,
+    "activityCount": 51
+  },
+  {
+    "userId": "u15",
+    "userName": "Oscar-015",
+    "archetype": "loyal_vault_depositor",
+    "totalPoints": 5315,
+    "activityCount": 30
+  },
+  {
+    "userId": "u29",
+    "userName": "Carol-029",
+    "archetype": "loyal_vault_depositor",
+    "totalPoints": 5296,
+    "activityCount": 30
+  },
+  {
+    "userId": "u1",
+    "userName": "Alice-001",
+    "archetype": "loyal_vault_depositor",
+    "totalPoints": 5294,
+    "activityCount": 30
+  },
+  {
+    "userId": "u22",
+    "userName": "Victor-022",
+    "archetype": "loyal_vault_depositor",
+    "totalPoints": 5202,
+    "activityCount": 30
+  },
+  {
+    "userId": "u8",
+    "userName": "Helen-008",
+    "archetype": "loyal_vault_depositor",
+    "totalPoints": 5095,
+    "activityCount": 30
+  },
+  {
+    "userId": "u7",
+    "userName": "Grace-007",
+    "archetype": "hybrid_user",
+    "totalPoints": 4784,
+    "activityCount": 46
+  },
+  {
+    "userId": "u2",
+    "userName": "Bob-002",
+    "archetype": "vault_farmer_flipper",
+    "totalPoints": 4783,
+    "activityCount": 37
+  },
+  {
+    "userId": "u16",
+    "userName": "Priya-016",
+    "archetype": "vault_farmer_flipper",
+    "totalPoints": 4717,
+    "activityCount": 36
+  },
+  {
+    "userId": "u23",
+    "userName": "Wendy-023",
+    "archetype": "vault_farmer_flipper",
+    "totalPoints": 4653,
+    "activityCount": 36
+  },
+  {
+    "userId": "u9",
+    "userName": "Ivan-009",
+    "archetype": "vault_farmer_flipper",
+    "totalPoints": 4651,
+    "activityCount": 36
+  },
+  {
+    "userId": "u30",
+    "userName": "Dave-030",
+    "archetype": "vault_farmer_flipper",
+    "totalPoints": 4371,
+    "activityCount": 34
+  },
+  {
+    "userId": "u17",
+    "userName": "Quinn-017",
+    "archetype": "active_market_maker",
+    "totalPoints": 3865,
+    "activityCount": 30
+  },
+  {
+    "userId": "u24",
+    "userName": "Xavier-024",
+    "archetype": "active_market_maker",
+    "totalPoints": 3835,
+    "activityCount": 30
+  },
+  {
+    "userId": "u10",
+    "userName": "Judy-010",
+    "archetype": "active_market_maker",
+    "totalPoints": 3772,
+    "activityCount": 30
+  },
+  {
+    "userId": "u3",
+    "userName": "Carol-003",
+    "archetype": "active_market_maker",
+    "totalPoints": 3725,
+    "activityCount": 30
+  },
+  {
+    "userId": "u4",
+    "userName": "Dave-004",
+    "archetype": "lazy_liquidity_provider",
+    "totalPoints": 1470,
+    "activityCount": 30
+  },
+  {
+    "userId": "u18",
+    "userName": "Ravi-018",
+    "archetype": "lazy_liquidity_provider",
+    "totalPoints": 1454,
+    "activityCount": 30
+  },
+  {
+    "userId": "u25",
+    "userName": "Yara-025",
+    "archetype": "lazy_liquidity_provider",
+    "totalPoints": 1429,
+    "activityCount": 30
+  },
+  {
+    "userId": "u11",
+    "userName": "Kevin-011",
+    "archetype": "lazy_liquidity_provider",
+    "totalPoints": 1422,
+    "activityCount": 30
+  },
+  {
+    "userId": "u13",
+    "userName": "Mallory-013",
+    "archetype": "short_term_lp_flipper",
+    "totalPoints": 1005,
+    "activityCount": 110
+  },
+  {
+    "userId": "u27",
+    "userName": "Alice-027",
+    "archetype": "short_term_lp_flipper",
+    "totalPoints": 998,
+    "activityCount": 110
+  },
+  {
+    "userId": "u6",
+    "userName": "Frank-006",
+    "archetype": "short_term_lp_flipper",
+    "totalPoints": 958,
+    "activityCount": 106
+  },
+  {
+    "userId": "u20",
+    "userName": "Tomas-020",
+    "archetype": "short_term_lp_flipper",
+    "totalPoints": 869,
+    "activityCount": 101
+  },
+  {
+    "userId": "u5",
+    "userName": "Eve-005",
+    "archetype": "fake_liquidity_farmer",
+    "totalPoints": 0,
+    "activityCount": 30
+  },
+  {
+    "userId": "u12",
+    "userName": "Laura-012",
+    "archetype": "fake_liquidity_farmer",
+    "totalPoints": 0,
+    "activityCount": 30
+  },
+  {
+    "userId": "u19",
+    "userName": "Sara-019",
+    "archetype": "fake_liquidity_farmer",
+    "totalPoints": 0,
+    "activityCount": 30
+  },
+  {
+    "userId": "u26",
+    "userName": "Zane-026",
+    "archetype": "fake_liquidity_farmer",
+    "totalPoints": 0,
+    "activityCount": 30
+  }
+]

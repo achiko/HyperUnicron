@@ -1,0 +1,152 @@
+[
+  {
+    "id": "u1",
+    "name": "Alice-001",
+    "archetype": "loyal_vault_depositor"
+  },
+  {
+    "id": "u2",
+    "name": "Bob-002",
+    "archetype": "vault_farmer_flipper"
+  },
+  {
+    "id": "u3",
+    "name": "Carol-003",
+    "archetype": "active_market_maker"
+  },
+  {
+    "id": "u4",
+    "name": "Dave-004",
+    "archetype": "lazy_liquidity_provider"
+  },
+  {
+    "id": "u5",
+    "name": "Eve-005",
+    "archetype": "fake_liquidity_farmer"
+  },
+  {
+    "id": "u6",
+    "name": "Frank-006",
+    "archetype": "short_term_lp_flipper"
+  },
+  {
+    "id": "u7",
+    "name": "Grace-007",
+    "archetype": "hybrid_user"
+  },
+  {
+    "id": "u8",
+    "name": "Helen-008",
+    "archetype": "loyal_vault_depositor"
+  },
+  {
+    "id": "u9",
+    "name": "Ivan-009",
+    "archetype": "vault_farmer_flipper"
+  },
+  {
+    "id": "u10",
+    "name": "Judy-010",
+    "archetype": "active_market_maker"
+  },
+  {
+    "id": "u11",
+    "name": "Kevin-011",
+    "archetype": "lazy_liquidity_provider"
+  },
+  {
+    "id": "u12",
+    "name": "Laura-012",
+    "archetype": "fake_liquidity_farmer"
+  },
+  {
+    "id": "u13",
+    "name": "Mallory-013",
+    "archetype": "short_term_lp_flipper"
+  },
+  {
+    "id": "u14",
+    "name": "Nia-014",
+    "archetype": "hybrid_user"
+  },
+  {
+    "id": "u15",
+    "name": "Oscar-015",
+    "archetype": "loyal_vault_depositor"
+  },
+  {
+    "id": "u16",
+    "name": "Priya-016",
+    "archetype": "vault_farmer_flipper"
+  },
+  {
+    "id": "u17",
+    "name": "Quinn-017",
+    "archetype": "active_market_maker"
+  },
+  {
+    "id": "u18",
+    "name": "Ravi-018",
+    "archetype": "lazy_liquidity_provider"
+  },
+  {
+    "id": "u19",
+    "name": "Sara-019",
+    "archetype": "fake_liquidity_farmer"
+  },
+  {
+    "id": "u20",
+    "name": "Tomas-020",
+    "archetype": "short_term_lp_flipper"
+  },
+  {
+    "id": "u21",
+    "name": "Uma-021",
+    "archetype": "hybrid_user"
+  },
+  {
+    "id": "u22",
+    "name": "Victor-022",
+    "archetype": "loyal_vault_depositor"
+  },
+  {
+    "id": "u23",
+    "name": "Wendy-023",
+    "archetype": "vault_farmer_flipper"
+  },
+  {
+    "id": "u24",
+    "name": "Xavier-024",
+    "archetype": "active_market_maker"
+  },
+  {
+    "id": "u25",
+    "name": "Yara-025",
+    "archetype": "lazy_liquidity_provider"
+  },
+  {
+    "id": "u26",
+    "name": "Zane-026",
+    "archetype": "fake_liquidity_farmer"
+  },
+  {
+    "id": "u27",
+    "name": "Alice-027",
+    "archetype": "short_term_lp_flipper"
+  },
+  {
+    "id": "u28",
+    "name": "Bob-028",
+    "archetype": "hybrid_user"
+  },
+  {
+    "id": "u29",
+    "name": "Carol-029",
+    "archetype": "loyal_vault_depositor"
+  },
+  {
+    "id": "u30",
+    "name": "Dave-030",
+    "archetype": "vault_farmer_flipper"
+  }
+]

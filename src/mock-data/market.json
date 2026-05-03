@@ -1,0 +1,212 @@
+[
+  {
+    "day": 1,
+    "date": "2026-01-01",
+    "ethPrice": 2059,
+    "volatility": 1,
+    "imbalance": "balanced"
+  },
+  {
+    "day": 2,
+    "date": "2026-01-02",
+    "ethPrice": 1982,
+    "volatility": 1,
+    "imbalance": "short_heavy"
+  },
+  {
+    "day": 3,
+    "date": "2026-01-03",
+    "ethPrice": 2048,
+    "volatility": 1,
+    "imbalance": "long_heavy"
+  },
+  {
+    "day": 4,
+    "date": "2026-01-04",
+    "ethPrice": 2014,
+    "volatility": 1,
+    "imbalance": "long_heavy"
+  },
+  {
+    "day": 5,
+    "date": "2026-01-05",
+    "ethPrice": 2093,
+    "volatility": 1,
+    "imbalance": "short_heavy"
+  },
+  {
+    "day": 6,
+    "date": "2026-01-06",
+    "ethPrice": 2149,
+    "volatility": 1,
+    "imbalance": "short_heavy"
+  },
+  {
+    "day": 7,
+    "date": "2026-01-07",
+    "ethPrice": 2139,
+    "volatility": 1.45,
+    "imbalance": "balanced"
+  },
+  {
+    "day": 8,
+    "date": "2026-01-08",
+    "ethPrice": 2032,
+    "volatility": 1.45,
+    "imbalance": "balanced"
+  },
+  {
+    "day": 9,
+    "date": "2026-01-09",
+    "ethPrice": 2068,
+    "volatility": 1,
+    "imbalance": "balanced"
+  },
+  {
+    "day": 10,
+    "date": "2026-01-10",
+    "ethPrice": 2152,
+    "volatility": 1,
+    "imbalance": "long_heavy"
+  },
+  {
+    "day": 11,
+    "date": "2026-01-11",
+    "ethPrice": 2082,
+    "volatility": 1.45,
+    "imbalance": "short_heavy"
+  },
+  {
+    "day": 12,
+    "date": "2026-01-12",
+    "ethPrice": 2116,
+    "volatility": 1,
+    "imbalance": "long_heavy"
+  },
+  {
+    "day": 13,
+    "date": "2026-01-13",
+    "ethPrice": 2032,
+    "volatility": 1,
+    "imbalance": "short_heavy"
+  },
+  {
+    "day": 14,
+    "date": "2026-01-14",
+    "ethPrice": 2003,
+    "volatility": 1,
+    "imbalance": "short_heavy"
+  },
+  {
+    "day": 15,
+    "date": "2026-01-15",
+    "ethPrice": 2031,
+    "volatility": 1,
+    "imbalance": "balanced"
+  },
+  {
+    "day": 16,
+    "date": "2026-01-16",
+    "ethPrice": 2045,
+    "volatility": 1,
+    "imbalance": "long_heavy"
+  },
+  {
+    "day": 17,
+    "date": "2026-01-17",
+    "ethPrice": 2028,
+    "volatility": 1.45,
+    "imbalance": "long_heavy"
+  },
+  {
+    "day": 18,
+    "date": "2026-01-18",
+    "ethPrice": 2054,
+    "volatility": 1,
+    "imbalance": "long_heavy"
+  },
+  {
+    "day": 19,
+    "date": "2026-01-19",
+    "ethPrice": 2104,
+    "volatility": 1,
+    "imbalance": "long_heavy"
+  },
+  {
+    "day": 20,
+    "date": "2026-01-20",
+    "ethPrice": 2172,
+    "volatility": 1,
+    "imbalance": "short_heavy"
+  },
+  {
+    "day": 21,
+    "date": "2026-01-21",
+    "ethPrice": 2098,
+    "volatility": 1,
+    "imbalance": "long_heavy"
+  },
+  {
+    "day": 22,
+    "date": "2026-01-22",
+    "ethPrice": 2183,
+    "volatility": 1,
+    "imbalance": "short_heavy"
+  },
+  {
+    "day": 23,
+    "date": "2026-01-23",
+    "ethPrice": 2167,
+    "volatility": 1.45,
+    "imbalance": "short_heavy"
+  },
+  {
+    "day": 24,
+    "date": "2026-01-24",
+    "ethPrice": 2206,
+    "volatility": 1,
+    "imbalance": "short_heavy"
+  },
+  {
+    "day": 25,
+    "date": "2026-01-25",
+    "ethPrice": 2148,
+    "volatility": 1.45,
+    "imbalance": "balanced"
+  },
+  {
+    "day": 26,
+    "date": "2026-01-26",
+    "ethPrice": 2198,
+    "volatility": 1,
+    "imbalance": "balanced"
+  },
+  {
+    "day": 27,
+    "date": "2026-01-27",
+    "ethPrice": 2172,
+    "volatility": 1,
+    "imbalance": "balanced"
+  },
+  {
+    "day": 28,
+    "date": "2026-01-28",
+    "ethPrice": 2207,
+    "volatility": 1,
+    "imbalance": "short_heavy"
+  },
+  {
+    "day": 29,
+    "date": "2026-01-29",
+    "ethPrice": 2241,
+    "volatility": 1,
+    "imbalance": "balanced"
+  },
+  {
+    "day": 30,
+    "date": "2026-01-30",
+    "ethPrice": 2293,
+    "volatility": 1,
+    "imbalance": "balanced"
+  }
+]
