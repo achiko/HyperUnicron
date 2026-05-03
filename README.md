@@ -85,12 +85,12 @@ vault_points_daily = sqrt(deposit_amount) × time_multiplier
 - Days 31–90: 1.25x
 - Days 90+: 1.5x (loyalty bonus, capped)
 
-**Note:** multipliers are not final and can be adjusted.**
+**Note: multipliers are not final and can be adjusted.**
 
 ### Direct LP points (per day)
 
 ```ptyhon 
-    lp_points_daily = sqrt(position_size) × range_quality × time_in_range_ratio × duration_multiplier
+lp_points_daily = sqrt(position_size) × range_quality × time_in_range_ratio × duration_multiplier
 ```
 
 **Where:**
@@ -111,6 +111,7 @@ vault_points_daily = sqrt(deposit_amount) × time_multiplier
 
 **duration_multiplier** — same shape as vault's time_multiplier, rewarding long-lived positions.
 
+**Note: duration_multiplier are not final and can be adjusted.**
 
 ## Regenerate Mock Data
 
