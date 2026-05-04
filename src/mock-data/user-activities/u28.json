@@ -8,14 +8,14 @@
     "archetype": "hybrid_user",
     "activityType": "direct_lp",
     "action": "open_position",
-    "capitalUsd": 10450,
-    "durationDays": 24,
+    "capitalUsd": 14798,
+    "durationDays": 33,
     "marketImbalance": "balanced",
-    "rangeWidthPercent": 24,
+    "rangeWidthPercent": 25,
     "rangeQuality": 0.96,
-    "timeInRangeRatio": 0.73,
+    "timeInRangeRatio": 0.56,
     "exposureSide": "long",
-    "points": 72
+    "points": 82
   },
   {
     "id": "u28-1-hybrid-vault",
@@ -26,10 +26,28 @@
     "archetype": "hybrid_user",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 11580,
-    "durationDays": 24,
+    "capitalUsd": 11131,
+    "durationDays": 33,
     "marketImbalance": "balanced",
-    "points": 108
+    "points": 132
+  },
+  {
+    "id": "u28-2-hybrid-lp",
+    "day": 2,
+    "date": "2026-01-02",
+    "userId": "u28",
+    "userName": "Bob-028",
+    "archetype": "hybrid_user",
+    "activityType": "direct_lp",
+    "action": "open_position",
+    "capitalUsd": 7384,
+    "durationDays": 44,
+    "marketImbalance": "short_heavy",
+    "rangeWidthPercent": 41,
+    "rangeQuality": 0.82,
+    "timeInRangeRatio": 0.65,
+    "exposureSide": "long",
+    "points": 57
   },
   {
     "id": "u28-2-hybrid-vault",
@@ -40,28 +58,10 @@
     "archetype": "hybrid_user",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 18494,
-    "durationDays": 45,
+    "capitalUsd": 3599,
+    "durationDays": 44,
     "marketImbalance": "short_heavy",
-    "points": 170
-  },
-  {
-    "id": "u28-3-hybrid-lp",
-    "day": 3,
-    "date": "2026-01-03",
-    "userId": "u28",
-    "userName": "Bob-028",
-    "archetype": "hybrid_user",
-    "activityType": "direct_lp",
-    "action": "open_position",
-    "capitalUsd": 15265,
-    "durationDays": 45,
-    "marketImbalance": "long_heavy",
-    "rangeWidthPercent": 41,
-    "rangeQuality": 0.82,
-    "timeInRangeRatio": 0.83,
-    "exposureSide": "short",
-    "points": 105
+    "points": 75
   },
   {
     "id": "u28-3-hybrid-vault",
@@ -72,10 +72,10 @@
     "archetype": "hybrid_user",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 16702,
-    "durationDays": 45,
-    "marketImbalance": "long_heavy",
-    "points": 162
+    "capitalUsd": 13143,
+    "durationDays": 61,
+    "marketImbalance": "balanced",
+    "points": 143
   },
   {
     "id": "u28-4-hybrid-lp",
@@ -86,14 +86,14 @@
     "archetype": "hybrid_user",
     "activityType": "direct_lp",
     "action": "open_position",
-    "capitalUsd": 10235,
-    "durationDays": 79,
-    "marketImbalance": "long_heavy",
-    "rangeWidthPercent": 38,
-    "rangeQuality": 0.84,
-    "timeInRangeRatio": 0.97,
-    "exposureSide": "short",
-    "points": 103
+    "capitalUsd": 12148,
+    "durationDays": 34,
+    "marketImbalance": "short_heavy",
+    "rangeWidthPercent": 32,
+    "rangeQuality": 0.9,
+    "timeInRangeRatio": 0.63,
+    "exposureSide": "long",
+    "points": 78
   },
   {
     "id": "u28-4-hybrid-vault",
@@ -104,28 +104,10 @@
     "archetype": "hybrid_user",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 13619,
-    "durationDays": 79,
-    "marketImbalance": "long_heavy",
-    "points": 146
-  },
-  {
-    "id": "u28-5-hybrid-lp",
-    "day": 5,
-    "date": "2026-01-05",
-    "userId": "u28",
-    "userName": "Bob-028",
-    "archetype": "hybrid_user",
-    "activityType": "direct_lp",
-    "action": "open_position",
-    "capitalUsd": 6453,
-    "durationDays": 39,
+    "capitalUsd": 11154,
+    "durationDays": 34,
     "marketImbalance": "short_heavy",
-    "rangeWidthPercent": 32,
-    "rangeQuality": 0.9,
-    "timeInRangeRatio": 0.58,
-    "exposureSide": "long",
-    "points": 52
+    "points": 132
   },
   {
     "id": "u28-5-hybrid-vault",
@@ -136,10 +118,10 @@
     "archetype": "hybrid_user",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 4643,
-    "durationDays": 39,
-    "marketImbalance": "short_heavy",
-    "points": 85
+    "capitalUsd": 12667,
+    "durationDays": 47,
+    "marketImbalance": "balanced",
+    "points": 141
   },
   {
     "id": "u28-6-hybrid-lp",
@@ -150,14 +132,14 @@
     "archetype": "hybrid_user",
     "activityType": "direct_lp",
     "action": "open_position",
-    "capitalUsd": 14616,
-    "durationDays": 49,
-    "marketImbalance": "short_heavy",
-    "rangeWidthPercent": 32,
-    "rangeQuality": 0.9,
-    "timeInRangeRatio": 0.58,
+    "capitalUsd": 3777,
+    "durationDays": 78,
+    "marketImbalance": "balanced",
+    "rangeWidthPercent": 21,
+    "rangeQuality": 0.99,
+    "timeInRangeRatio": 0.69,
     "exposureSide": "long",
-    "points": 79
+    "points": 52
   },
   {
     "id": "u28-6-hybrid-vault",
@@ -168,10 +150,10 @@
     "archetype": "hybrid_user",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 17938,
-    "durationDays": 49,
-    "marketImbalance": "short_heavy",
-    "points": 167
+    "capitalUsd": 17198,
+    "durationDays": 78,
+    "marketImbalance": "balanced",
+    "points": 164
   },
   {
     "id": "u28-7-hybrid-lp",
@@ -182,14 +164,14 @@
     "archetype": "hybrid_user",
     "activityType": "direct_lp",
     "action": "open_position",
-    "capitalUsd": 12346,
-    "durationDays": 67,
-    "marketImbalance": "balanced",
-    "rangeWidthPercent": 22,
-    "rangeQuality": 0.98,
-    "timeInRangeRatio": 0.64,
+    "capitalUsd": 7104,
+    "durationDays": 73,
+    "marketImbalance": "long_heavy",
+    "rangeWidthPercent": 30,
+    "rangeQuality": 0.91,
+    "timeInRangeRatio": 0.97,
     "exposureSide": "short",
-    "points": 87
+    "points": 93
   },
   {
     "id": "u28-7-hybrid-vault",
@@ -200,28 +182,10 @@
     "archetype": "hybrid_user",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 13621,
-    "durationDays": 67,
-    "marketImbalance": "balanced",
-    "points": 146
-  },
-  {
-    "id": "u28-8-hybrid-lp",
-    "day": 8,
-    "date": "2026-01-08",
-    "userId": "u28",
-    "userName": "Bob-028",
-    "archetype": "hybrid_user",
-    "activityType": "direct_lp",
-    "action": "open_position",
-    "capitalUsd": 8458,
-    "durationDays": 64,
-    "marketImbalance": "balanced",
-    "rangeWidthPercent": 26,
-    "rangeQuality": 0.95,
-    "timeInRangeRatio": 0.76,
-    "exposureSide": "short",
-    "points": 83
+    "capitalUsd": 12749,
+    "durationDays": 73,
+    "marketImbalance": "long_heavy",
+    "points": 141
   },
   {
     "id": "u28-8-hybrid-vault",
@@ -232,10 +196,28 @@
     "archetype": "hybrid_user",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 19072,
-    "durationDays": 64,
-    "marketImbalance": "balanced",
-    "points": 173
+    "capitalUsd": 10006,
+    "durationDays": 53,
+    "marketImbalance": "short_heavy",
+    "points": 125
+  },
+  {
+    "id": "u28-9-hybrid-lp",
+    "day": 9,
+    "date": "2026-01-09",
+    "userId": "u28",
+    "userName": "Bob-028",
+    "archetype": "hybrid_user",
+    "activityType": "direct_lp",
+    "action": "open_position",
+    "capitalUsd": 2203,
+    "durationDays": 63,
+    "marketImbalance": "long_heavy",
+    "rangeWidthPercent": 35,
+    "rangeQuality": 0.87,
+    "timeInRangeRatio": 0.78,
+    "exposureSide": "short",
+    "points": 40
   },
   {
     "id": "u28-9-hybrid-vault",
@@ -246,10 +228,10 @@
     "archetype": "hybrid_user",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 11809,
-    "durationDays": 25,
-    "marketImbalance": "balanced",
-    "points": 109
+    "capitalUsd": 15319,
+    "durationDays": 63,
+    "marketImbalance": "long_heavy",
+    "points": 155
   },
   {
     "id": "u28-10-hybrid-vault",
@@ -260,10 +242,10 @@
     "archetype": "hybrid_user",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 17838,
-    "durationDays": 21,
-    "marketImbalance": "long_heavy",
-    "points": 134
+    "capitalUsd": 13646,
+    "durationDays": 75,
+    "marketImbalance": "short_heavy",
+    "points": 146
   },
   {
     "id": "u28-11-hybrid-lp",
@@ -274,14 +256,14 @@
     "archetype": "hybrid_user",
     "activityType": "direct_lp",
     "action": "open_position",
-    "capitalUsd": 2063,
-    "durationDays": 31,
+    "capitalUsd": 7935,
+    "durationDays": 44,
     "marketImbalance": "short_heavy",
-    "rangeWidthPercent": 25,
-    "rangeQuality": 0.96,
-    "timeInRangeRatio": 0.63,
+    "rangeWidthPercent": 39,
+    "rangeQuality": 0.83,
+    "timeInRangeRatio": 0.96,
     "exposureSide": "long",
-    "points": 34
+    "points": 89
   },
   {
     "id": "u28-11-hybrid-vault",
@@ -292,10 +274,10 @@
     "archetype": "hybrid_user",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 21442,
-    "durationDays": 31,
+    "capitalUsd": 14763,
+    "durationDays": 44,
     "marketImbalance": "short_heavy",
-    "points": 183
+    "points": 152
   },
   {
     "id": "u28-12-hybrid-vault",
@@ -306,10 +288,10 @@
     "archetype": "hybrid_user",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 5252,
-    "durationDays": 65,
-    "marketImbalance": "long_heavy",
-    "points": 91
+    "capitalUsd": 19452,
+    "durationDays": 28,
+    "marketImbalance": "balanced",
+    "points": 139
   },
   {
     "id": "u28-13-hybrid-lp",
@@ -320,14 +302,14 @@
     "archetype": "hybrid_user",
     "activityType": "direct_lp",
     "action": "open_position",
-    "capitalUsd": 5882,
-    "durationDays": 74,
-    "marketImbalance": "short_heavy",
-    "rangeWidthPercent": 25,
-    "rangeQuality": 0.96,
-    "timeInRangeRatio": 0.51,
-    "exposureSide": "long",
-    "points": 47
+    "capitalUsd": 10576,
+    "durationDays": 57,
+    "marketImbalance": "balanced",
+    "rangeWidthPercent": 23,
+    "rangeQuality": 0.97,
+    "timeInRangeRatio": 0.7,
+    "exposureSide": "short",
+    "points": 87
   },
   {
     "id": "u28-13-hybrid-vault",
@@ -338,10 +320,10 @@
     "archetype": "hybrid_user",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 19602,
-    "durationDays": 74,
-    "marketImbalance": "short_heavy",
-    "points": 175
+    "capitalUsd": 14930,
+    "durationDays": 57,
+    "marketImbalance": "balanced",
+    "points": 153
   },
   {
     "id": "u28-14-hybrid-vault",
@@ -352,10 +334,10 @@
     "archetype": "hybrid_user",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 14395,
-    "durationDays": 50,
+    "capitalUsd": 4103,
+    "durationDays": 72,
     "marketImbalance": "short_heavy",
-    "points": 150
+    "points": 80
   },
   {
     "id": "u28-15-hybrid-lp",
@@ -366,14 +348,14 @@
     "archetype": "hybrid_user",
     "activityType": "direct_lp",
     "action": "open_position",
-    "capitalUsd": 8585,
-    "durationDays": 59,
-    "marketImbalance": "balanced",
-    "rangeWidthPercent": 41,
-    "rangeQuality": 0.82,
-    "timeInRangeRatio": 0.7,
-    "exposureSide": "long",
-    "points": 66
+    "capitalUsd": 9184,
+    "durationDays": 58,
+    "marketImbalance": "long_heavy",
+    "rangeWidthPercent": 42,
+    "rangeQuality": 0.81,
+    "timeInRangeRatio": 0.64,
+    "exposureSide": "short",
+    "points": 62
   },
   {
     "id": "u28-15-hybrid-vault",
@@ -384,10 +366,10 @@
     "archetype": "hybrid_user",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 15629,
-    "durationDays": 59,
-    "marketImbalance": "balanced",
-    "points": 156
+    "capitalUsd": 8654,
+    "durationDays": 58,
+    "marketImbalance": "long_heavy",
+    "points": 116
   },
   {
     "id": "u28-16-hybrid-lp",
@@ -398,14 +380,14 @@
     "archetype": "hybrid_user",
     "activityType": "direct_lp",
     "action": "open_position",
-    "capitalUsd": 12641,
-    "durationDays": 21,
-    "marketImbalance": "long_heavy",
-    "rangeWidthPercent": 33,
-    "rangeQuality": 0.89,
-    "timeInRangeRatio": 0.88,
-    "exposureSide": "short",
-    "points": 88
+    "capitalUsd": 5434,
+    "durationDays": 65,
+    "marketImbalance": "short_heavy",
+    "rangeWidthPercent": 34,
+    "rangeQuality": 0.88,
+    "timeInRangeRatio": 0.83,
+    "exposureSide": "long",
+    "points": 67
   },
   {
     "id": "u28-16-hybrid-vault",
@@ -416,10 +398,10 @@
     "archetype": "hybrid_user",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 19350,
-    "durationDays": 21,
-    "marketImbalance": "long_heavy",
-    "points": 139
+    "capitalUsd": 14154,
+    "durationDays": 65,
+    "marketImbalance": "short_heavy",
+    "points": 149
   },
   {
     "id": "u28-17-hybrid-lp",
@@ -430,14 +412,14 @@
     "archetype": "hybrid_user",
     "activityType": "direct_lp",
     "action": "open_position",
-    "capitalUsd": 7649,
-    "durationDays": 68,
-    "marketImbalance": "long_heavy",
-    "rangeWidthPercent": 35,
-    "rangeQuality": 0.87,
-    "timeInRangeRatio": 0.78,
-    "exposureSide": "short",
-    "points": 74
+    "capitalUsd": 6358,
+    "durationDays": 40,
+    "marketImbalance": "short_heavy",
+    "rangeWidthPercent": 43,
+    "rangeQuality": 0.8,
+    "timeInRangeRatio": 0.99,
+    "exposureSide": "long",
+    "points": 79
   },
   {
     "id": "u28-17-hybrid-vault",
@@ -448,10 +430,10 @@
     "archetype": "hybrid_user",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 20859,
-    "durationDays": 68,
-    "marketImbalance": "long_heavy",
-    "points": 181
+    "capitalUsd": 20340,
+    "durationDays": 40,
+    "marketImbalance": "short_heavy",
+    "points": 178
   },
   {
     "id": "u28-18-hybrid-lp",
@@ -462,14 +444,14 @@
     "archetype": "hybrid_user",
     "activityType": "direct_lp",
     "action": "open_position",
-    "capitalUsd": 2629,
-    "durationDays": 62,
-    "marketImbalance": "long_heavy",
-    "rangeWidthPercent": 30,
-    "rangeQuality": 0.91,
-    "timeInRangeRatio": 0.69,
-    "exposureSide": "short",
-    "points": 40
+    "capitalUsd": 3407,
+    "durationDays": 50,
+    "marketImbalance": "short_heavy",
+    "rangeWidthPercent": 37,
+    "rangeQuality": 0.85,
+    "timeInRangeRatio": 0.78,
+    "exposureSide": "long",
+    "points": 48
   },
   {
     "id": "u28-18-hybrid-vault",
@@ -480,28 +462,10 @@
     "archetype": "hybrid_user",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 13624,
-    "durationDays": 62,
-    "marketImbalance": "long_heavy",
-    "points": 146
-  },
-  {
-    "id": "u28-19-hybrid-lp",
-    "day": 19,
-    "date": "2026-01-19",
-    "userId": "u28",
-    "userName": "Bob-028",
-    "archetype": "hybrid_user",
-    "activityType": "direct_lp",
-    "action": "open_position",
-    "capitalUsd": 3483,
-    "durationDays": 21,
-    "marketImbalance": "long_heavy",
-    "rangeWidthPercent": 17,
-    "rangeQuality": 1,
-    "timeInRangeRatio": 0.88,
-    "exposureSide": "short",
-    "points": 52
+    "capitalUsd": 13902,
+    "durationDays": 50,
+    "marketImbalance": "short_heavy",
+    "points": 147
   },
   {
     "id": "u28-19-hybrid-vault",
@@ -512,10 +476,10 @@
     "archetype": "hybrid_user",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 16042,
-    "durationDays": 21,
-    "marketImbalance": "long_heavy",
-    "points": 127
+    "capitalUsd": 17293,
+    "durationDays": 65,
+    "marketImbalance": "balanced",
+    "points": 164
   },
   {
     "id": "u28-20-hybrid-lp",
@@ -526,14 +490,14 @@
     "archetype": "hybrid_user",
     "activityType": "direct_lp",
     "action": "open_position",
-    "capitalUsd": 5343,
-    "durationDays": 60,
-    "marketImbalance": "short_heavy",
-    "rangeWidthPercent": 24,
-    "rangeQuality": 0.96,
-    "timeInRangeRatio": 0.77,
-    "exposureSide": "long",
-    "points": 68
+    "capitalUsd": 11228,
+    "durationDays": 54,
+    "marketImbalance": "long_heavy",
+    "rangeWidthPercent": 33,
+    "rangeQuality": 0.89,
+    "timeInRangeRatio": 0.52,
+    "exposureSide": "short",
+    "points": 61
   },
   {
     "id": "u28-20-hybrid-vault",
@@ -544,10 +508,10 @@
     "archetype": "hybrid_user",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 15435,
-    "durationDays": 60,
-    "marketImbalance": "short_heavy",
-    "points": 155
+    "capitalUsd": 7357,
+    "durationDays": 54,
+    "marketImbalance": "long_heavy",
+    "points": 107
   },
   {
     "id": "u28-21-hybrid-lp",
@@ -558,14 +522,14 @@
     "archetype": "hybrid_user",
     "activityType": "direct_lp",
     "action": "open_position",
-    "capitalUsd": 4079,
-    "durationDays": 35,
-    "marketImbalance": "long_heavy",
-    "rangeWidthPercent": 40,
-    "rangeQuality": 0.82,
-    "timeInRangeRatio": 0.98,
-    "exposureSide": "short",
-    "points": 64
+    "capitalUsd": 13962,
+    "durationDays": 33,
+    "marketImbalance": "short_heavy",
+    "rangeWidthPercent": 26,
+    "rangeQuality": 0.95,
+    "timeInRangeRatio": 0.96,
+    "exposureSide": "long",
+    "points": 135
   },
   {
     "id": "u28-21-hybrid-vault",
@@ -576,10 +540,10 @@
     "archetype": "hybrid_user",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 7694,
-    "durationDays": 35,
-    "marketImbalance": "long_heavy",
-    "points": 110
+    "capitalUsd": 17871,
+    "durationDays": 33,
+    "marketImbalance": "short_heavy",
+    "points": 167
   },
   {
     "id": "u28-22-hybrid-lp",
@@ -590,14 +554,14 @@
     "archetype": "hybrid_user",
     "activityType": "direct_lp",
     "action": "open_position",
-    "capitalUsd": 5671,
-    "durationDays": 34,
-    "marketImbalance": "short_heavy",
-    "rangeWidthPercent": 39,
-    "rangeQuality": 0.83,
-    "timeInRangeRatio": 0.81,
-    "exposureSide": "long",
-    "points": 63
+    "capitalUsd": 6083,
+    "durationDays": 22,
+    "marketImbalance": "balanced",
+    "rangeWidthPercent": 20,
+    "rangeQuality": 1,
+    "timeInRangeRatio": 0.73,
+    "exposureSide": "short",
+    "points": 57
   },
   {
     "id": "u28-22-hybrid-vault",
@@ -608,10 +572,10 @@
     "archetype": "hybrid_user",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 17097,
-    "durationDays": 34,
-    "marketImbalance": "short_heavy",
-    "points": 163
+    "capitalUsd": 5599,
+    "durationDays": 22,
+    "marketImbalance": "balanced",
+    "points": 75
   },
   {
     "id": "u28-23-hybrid-lp",
@@ -622,14 +586,14 @@
     "archetype": "hybrid_user",
     "activityType": "direct_lp",
     "action": "open_position",
-    "capitalUsd": 15746,
-    "durationDays": 31,
-    "marketImbalance": "short_heavy",
-    "rangeWidthPercent": 23,
-    "rangeQuality": 0.97,
-    "timeInRangeRatio": 0.61,
-    "exposureSide": "long",
-    "points": 93
+    "capitalUsd": 12269,
+    "durationDays": 59,
+    "marketImbalance": "long_heavy",
+    "rangeWidthPercent": 44,
+    "rangeQuality": 0.79,
+    "timeInRangeRatio": 0.98,
+    "exposureSide": "short",
+    "points": 107
   },
   {
     "id": "u28-23-hybrid-vault",
@@ -640,10 +604,28 @@
     "archetype": "hybrid_user",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 20333,
-    "durationDays": 31,
-    "marketImbalance": "short_heavy",
-    "points": 178
+    "capitalUsd": 3680,
+    "durationDays": 59,
+    "marketImbalance": "long_heavy",
+    "points": 76
+  },
+  {
+    "id": "u28-24-hybrid-lp",
+    "day": 24,
+    "date": "2026-01-24",
+    "userId": "u28",
+    "userName": "Bob-028",
+    "archetype": "hybrid_user",
+    "activityType": "direct_lp",
+    "action": "open_position",
+    "capitalUsd": 3256,
+    "durationDays": 41,
+    "marketImbalance": "balanced",
+    "rangeWidthPercent": 33,
+    "rangeQuality": 0.89,
+    "timeInRangeRatio": 0.55,
+    "exposureSide": "short",
+    "points": 35
   },
   {
     "id": "u28-24-hybrid-vault",
@@ -654,28 +636,10 @@
     "archetype": "hybrid_user",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 21561,
-    "durationDays": 66,
-    "marketImbalance": "short_heavy",
-    "points": 184
-  },
-  {
-    "id": "u28-25-hybrid-lp",
-    "day": 25,
-    "date": "2026-01-25",
-    "userId": "u28",
-    "userName": "Bob-028",
-    "archetype": "hybrid_user",
-    "activityType": "direct_lp",
-    "action": "open_position",
-    "capitalUsd": 8855,
-    "durationDays": 64,
+    "capitalUsd": 8591,
+    "durationDays": 41,
     "marketImbalance": "balanced",
-    "rangeWidthPercent": 27,
-    "rangeQuality": 0.94,
-    "timeInRangeRatio": 0.54,
-    "exposureSide": "short",
-    "points": 60
+    "points": 116
   },
   {
     "id": "u28-25-hybrid-vault",
@@ -686,28 +650,10 @@
     "archetype": "hybrid_user",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 8513,
-    "durationDays": 64,
+    "capitalUsd": 11024,
+    "durationDays": 71,
     "marketImbalance": "balanced",
-    "points": 115
-  },
-  {
-    "id": "u28-26-hybrid-lp",
-    "day": 26,
-    "date": "2026-01-26",
-    "userId": "u28",
-    "userName": "Bob-028",
-    "archetype": "hybrid_user",
-    "activityType": "direct_lp",
-    "action": "open_position",
-    "capitalUsd": 3280,
-    "durationDays": 49,
-    "marketImbalance": "balanced",
-    "rangeWidthPercent": 27,
-    "rangeQuality": 0.94,
-    "timeInRangeRatio": 0.83,
-    "exposureSide": "short",
-    "points": 56
+    "points": 131
   },
   {
     "id": "u28-26-hybrid-vault",
@@ -718,10 +664,10 @@
     "archetype": "hybrid_user",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 17383,
-    "durationDays": 49,
-    "marketImbalance": "balanced",
-    "points": 165
+    "capitalUsd": 7583,
+    "durationDays": 33,
+    "marketImbalance": "long_heavy",
+    "points": 109
   },
   {
     "id": "u28-27-hybrid-lp",
@@ -732,14 +678,14 @@
     "archetype": "hybrid_user",
     "activityType": "direct_lp",
     "action": "open_position",
-    "capitalUsd": 10815,
-    "durationDays": 29,
+    "capitalUsd": 14791,
+    "durationDays": 60,
     "marketImbalance": "balanced",
-    "rangeWidthPercent": 40,
-    "rangeQuality": 0.82,
-    "timeInRangeRatio": 0.56,
-    "exposureSide": "long",
-    "points": 48
+    "rangeWidthPercent": 21,
+    "rangeQuality": 0.99,
+    "timeInRangeRatio": 0.7,
+    "exposureSide": "short",
+    "points": 105
   },
   {
     "id": "u28-27-hybrid-vault",
@@ -750,10 +696,10 @@
     "archetype": "hybrid_user",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 21234,
-    "durationDays": 29,
+    "capitalUsd": 6947,
+    "durationDays": 60,
     "marketImbalance": "balanced",
-    "points": 146
+    "points": 104
   },
   {
     "id": "u28-28-hybrid-lp",
@@ -764,14 +710,14 @@
     "archetype": "hybrid_user",
     "activityType": "direct_lp",
     "action": "open_position",
-    "capitalUsd": 7477,
-    "durationDays": 51,
+    "capitalUsd": 14781,
+    "durationDays": 54,
     "marketImbalance": "short_heavy",
-    "rangeWidthPercent": 32,
-    "rangeQuality": 0.9,
-    "timeInRangeRatio": 0.63,
+    "rangeWidthPercent": 21,
+    "rangeQuality": 0.99,
+    "timeInRangeRatio": 0.52,
     "exposureSide": "long",
-    "points": 61
+    "points": 78
   },
   {
     "id": "u28-28-hybrid-vault",
@@ -782,10 +728,28 @@
     "archetype": "hybrid_user",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 13436,
-    "durationDays": 51,
+    "capitalUsd": 7257,
+    "durationDays": 54,
     "marketImbalance": "short_heavy",
-    "points": 145
+    "points": 106
+  },
+  {
+    "id": "u28-29-hybrid-lp",
+    "day": 29,
+    "date": "2026-01-29",
+    "userId": "u28",
+    "userName": "Bob-028",
+    "archetype": "hybrid_user",
+    "activityType": "direct_lp",
+    "action": "open_position",
+    "capitalUsd": 8485,
+    "durationDays": 68,
+    "marketImbalance": "long_heavy",
+    "rangeWidthPercent": 33,
+    "rangeQuality": 0.89,
+    "timeInRangeRatio": 0.5,
+    "exposureSide": "short",
+    "points": 51
   },
   {
     "id": "u28-29-hybrid-vault",
@@ -796,10 +760,10 @@
     "archetype": "hybrid_user",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 14393,
-    "durationDays": 78,
-    "marketImbalance": "balanced",
-    "points": 150
+    "capitalUsd": 4833,
+    "durationDays": 68,
+    "marketImbalance": "long_heavy",
+    "points": 87
   },
   {
     "id": "u28-30-hybrid-lp",
@@ -810,14 +774,14 @@
     "archetype": "hybrid_user",
     "activityType": "direct_lp",
     "action": "open_position",
-    "capitalUsd": 12392,
-    "durationDays": 37,
+    "capitalUsd": 6239,
+    "durationDays": 30,
     "marketImbalance": "balanced",
-    "rangeWidthPercent": 15,
-    "rangeQuality": 1,
-    "timeInRangeRatio": 0.99,
+    "rangeWidthPercent": 37,
+    "rangeQuality": 0.85,
+    "timeInRangeRatio": 0.59,
     "exposureSide": "long",
-    "points": 138
+    "points": 40
   },
   {
     "id": "u28-30-hybrid-vault",
@@ -828,9 +792,9 @@
     "archetype": "hybrid_user",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 12720,
-    "durationDays": 37,
+    "capitalUsd": 18975,
+    "durationDays": 30,
     "marketImbalance": "balanced",
-    "points": 141
+    "points": 138
   }
 ]

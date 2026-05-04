@@ -8,10 +8,10 @@
     "archetype": "vault_farmer_flipper",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 102642,
-    "durationDays": 5,
+    "capitalUsd": 110733,
+    "durationDays": 6,
     "marketImbalance": "balanced",
-    "points": 160
+    "points": 166
   },
   {
     "id": "u23-2-farmer-deposit",
@@ -22,10 +22,24 @@
     "archetype": "vault_farmer_flipper",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 116065,
+    "capitalUsd": 41726,
     "durationDays": 2,
     "marketImbalance": "short_heavy",
-    "points": 170
+    "points": 102
+  },
+  {
+    "id": "u23-2-farmer-withdraw",
+    "day": 2,
+    "date": "2026-01-02",
+    "userId": "u23",
+    "userName": "Wendy-023",
+    "archetype": "vault_farmer_flipper",
+    "activityType": "vault",
+    "action": "vault_withdraw",
+    "capitalUsd": 41726,
+    "durationDays": 2,
+    "marketImbalance": "short_heavy",
+    "points": 102
   },
   {
     "id": "u23-3-farmer-deposit",
@@ -36,10 +50,10 @@
     "archetype": "vault_farmer_flipper",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 39712,
-    "durationDays": 4,
-    "marketImbalance": "long_heavy",
-    "points": 100
+    "capitalUsd": 103026,
+    "durationDays": 2,
+    "marketImbalance": "balanced",
+    "points": 160
   },
   {
     "id": "u23-4-farmer-deposit",
@@ -50,10 +64,10 @@
     "archetype": "vault_farmer_flipper",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 62672,
-    "durationDays": 6,
-    "marketImbalance": "long_heavy",
-    "points": 125
+    "capitalUsd": 27341,
+    "durationDays": 2,
+    "marketImbalance": "short_heavy",
+    "points": 83
   },
   {
     "id": "u23-5-farmer-deposit",
@@ -64,10 +78,24 @@
     "archetype": "vault_farmer_flipper",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 67539,
-    "durationDays": 5,
-    "marketImbalance": "short_heavy",
-    "points": 130
+    "capitalUsd": 29213,
+    "durationDays": 4,
+    "marketImbalance": "balanced",
+    "points": 85
+  },
+  {
+    "id": "u23-5-farmer-withdraw",
+    "day": 5,
+    "date": "2026-01-05",
+    "userId": "u23",
+    "userName": "Wendy-023",
+    "archetype": "vault_farmer_flipper",
+    "activityType": "vault",
+    "action": "vault_withdraw",
+    "capitalUsd": 29213,
+    "durationDays": 4,
+    "marketImbalance": "balanced",
+    "points": 85
   },
   {
     "id": "u23-6-farmer-deposit",
@@ -78,10 +106,10 @@
     "archetype": "vault_farmer_flipper",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 31130,
+    "capitalUsd": 35767,
     "durationDays": 6,
-    "marketImbalance": "short_heavy",
-    "points": 88
+    "marketImbalance": "balanced",
+    "points": 95
   },
   {
     "id": "u23-7-farmer-deposit",
@@ -92,10 +120,10 @@
     "archetype": "vault_farmer_flipper",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 93235,
-    "durationDays": 6,
-    "marketImbalance": "balanced",
-    "points": 153
+    "capitalUsd": 73302,
+    "durationDays": 3,
+    "marketImbalance": "long_heavy",
+    "points": 135
   },
   {
     "id": "u23-7-farmer-withdraw",
@@ -106,10 +134,10 @@
     "archetype": "vault_farmer_flipper",
     "activityType": "vault",
     "action": "vault_withdraw",
-    "capitalUsd": 93235,
-    "durationDays": 6,
-    "marketImbalance": "balanced",
-    "points": 153
+    "capitalUsd": 73302,
+    "durationDays": 3,
+    "marketImbalance": "long_heavy",
+    "points": 135
   },
   {
     "id": "u23-8-farmer-deposit",
@@ -120,24 +148,10 @@
     "archetype": "vault_farmer_flipper",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 84588,
-    "durationDays": 5,
-    "marketImbalance": "balanced",
-    "points": 145
-  },
-  {
-    "id": "u23-8-farmer-withdraw",
-    "day": 8,
-    "date": "2026-01-08",
-    "userId": "u23",
-    "userName": "Wendy-023",
-    "archetype": "vault_farmer_flipper",
-    "activityType": "vault",
-    "action": "vault_withdraw",
-    "capitalUsd": 84588,
-    "durationDays": 5,
-    "marketImbalance": "balanced",
-    "points": 145
+    "capitalUsd": 24538,
+    "durationDays": 3,
+    "marketImbalance": "short_heavy",
+    "points": 78
   },
   {
     "id": "u23-9-farmer-deposit",
@@ -148,24 +162,10 @@
     "archetype": "vault_farmer_flipper",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 85162,
-    "durationDays": 3,
-    "marketImbalance": "balanced",
-    "points": 146
-  },
-  {
-    "id": "u23-9-farmer-withdraw",
-    "day": 9,
-    "date": "2026-01-09",
-    "userId": "u23",
-    "userName": "Wendy-023",
-    "archetype": "vault_farmer_flipper",
-    "activityType": "vault",
-    "action": "vault_withdraw",
-    "capitalUsd": 85162,
-    "durationDays": 3,
-    "marketImbalance": "balanced",
-    "points": 146
+    "capitalUsd": 32149,
+    "durationDays": 2,
+    "marketImbalance": "long_heavy",
+    "points": 90
   },
   {
     "id": "u23-10-farmer-deposit",
@@ -176,10 +176,10 @@
     "archetype": "vault_farmer_flipper",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 91831,
+    "capitalUsd": 30469,
     "durationDays": 2,
-    "marketImbalance": "long_heavy",
-    "points": 152
+    "marketImbalance": "short_heavy",
+    "points": 87
   },
   {
     "id": "u23-11-farmer-deposit",
@@ -190,10 +190,10 @@
     "archetype": "vault_farmer_flipper",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 45622,
-    "durationDays": 4,
+    "capitalUsd": 109949,
+    "durationDays": 2,
     "marketImbalance": "short_heavy",
-    "points": 107
+    "points": 166
   },
   {
     "id": "u23-12-farmer-deposit",
@@ -204,10 +204,24 @@
     "archetype": "vault_farmer_flipper",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 84217,
+    "capitalUsd": 96524,
     "durationDays": 2,
-    "marketImbalance": "long_heavy",
-    "points": 145
+    "marketImbalance": "balanced",
+    "points": 155
+  },
+  {
+    "id": "u23-12-farmer-withdraw",
+    "day": 12,
+    "date": "2026-01-12",
+    "userId": "u23",
+    "userName": "Wendy-023",
+    "archetype": "vault_farmer_flipper",
+    "activityType": "vault",
+    "action": "vault_withdraw",
+    "capitalUsd": 96524,
+    "durationDays": 2,
+    "marketImbalance": "balanced",
+    "points": 155
   },
   {
     "id": "u23-13-farmer-deposit",
@@ -218,10 +232,10 @@
     "archetype": "vault_farmer_flipper",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 106120,
-    "durationDays": 4,
-    "marketImbalance": "short_heavy",
-    "points": 163
+    "capitalUsd": 92469,
+    "durationDays": 5,
+    "marketImbalance": "balanced",
+    "points": 152
   },
   {
     "id": "u23-14-farmer-deposit",
@@ -232,10 +246,10 @@
     "archetype": "vault_farmer_flipper",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 34199,
-    "durationDays": 3,
+    "capitalUsd": 73691,
+    "durationDays": 1,
     "marketImbalance": "short_heavy",
-    "points": 92
+    "points": 136
   },
   {
     "id": "u23-15-farmer-deposit",
@@ -246,10 +260,10 @@
     "archetype": "vault_farmer_flipper",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 91967,
-    "durationDays": 2,
-    "marketImbalance": "balanced",
-    "points": 152
+    "capitalUsd": 30226,
+    "durationDays": 3,
+    "marketImbalance": "long_heavy",
+    "points": 87
   },
   {
     "id": "u23-16-farmer-deposit",
@@ -260,10 +274,10 @@
     "archetype": "vault_farmer_flipper",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 113551,
-    "durationDays": 4,
-    "marketImbalance": "long_heavy",
-    "points": 168
+    "capitalUsd": 101249,
+    "durationDays": 5,
+    "marketImbalance": "short_heavy",
+    "points": 159
   },
   {
     "id": "u23-17-farmer-deposit",
@@ -274,10 +288,10 @@
     "archetype": "vault_farmer_flipper",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 50758,
-    "durationDays": 3,
-    "marketImbalance": "long_heavy",
-    "points": 113
+    "capitalUsd": 20492,
+    "durationDays": 6,
+    "marketImbalance": "short_heavy",
+    "points": 72
   },
   {
     "id": "u23-18-farmer-deposit",
@@ -288,24 +302,10 @@
     "archetype": "vault_farmer_flipper",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 111657,
+    "capitalUsd": 41410,
     "durationDays": 2,
-    "marketImbalance": "long_heavy",
-    "points": 167
-  },
-  {
-    "id": "u23-18-farmer-withdraw",
-    "day": 18,
-    "date": "2026-01-18",
-    "userId": "u23",
-    "userName": "Wendy-023",
-    "archetype": "vault_farmer_flipper",
-    "activityType": "vault",
-    "action": "vault_withdraw",
-    "capitalUsd": 111657,
-    "durationDays": 2,
-    "marketImbalance": "long_heavy",
-    "points": 167
+    "marketImbalance": "short_heavy",
+    "points": 102
   },
   {
     "id": "u23-19-farmer-deposit",
@@ -316,9 +316,23 @@
     "archetype": "vault_farmer_flipper",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 29998,
-    "durationDays": 2,
-    "marketImbalance": "long_heavy",
+    "capitalUsd": 30232,
+    "durationDays": 3,
+    "marketImbalance": "balanced",
+    "points": 87
+  },
+  {
+    "id": "u23-19-farmer-withdraw",
+    "day": 19,
+    "date": "2026-01-19",
+    "userId": "u23",
+    "userName": "Wendy-023",
+    "archetype": "vault_farmer_flipper",
+    "activityType": "vault",
+    "action": "vault_withdraw",
+    "capitalUsd": 30232,
+    "durationDays": 3,
+    "marketImbalance": "balanced",
     "points": 87
   },
   {
@@ -330,10 +344,10 @@
     "archetype": "vault_farmer_flipper",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 28742,
-    "durationDays": 4,
-    "marketImbalance": "short_heavy",
-    "points": 85
+    "capitalUsd": 41373,
+    "durationDays": 1,
+    "marketImbalance": "long_heavy",
+    "points": 102
   },
   {
     "id": "u23-21-farmer-deposit",
@@ -344,10 +358,10 @@
     "archetype": "vault_farmer_flipper",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 21112,
+    "capitalUsd": 96716,
     "durationDays": 3,
-    "marketImbalance": "long_heavy",
-    "points": 73
+    "marketImbalance": "short_heavy",
+    "points": 155
   },
   {
     "id": "u23-22-farmer-deposit",
@@ -358,10 +372,10 @@
     "archetype": "vault_farmer_flipper",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 22339,
+    "capitalUsd": 69415,
     "durationDays": 3,
-    "marketImbalance": "short_heavy",
-    "points": 75
+    "marketImbalance": "balanced",
+    "points": 132
   },
   {
     "id": "u23-23-farmer-deposit",
@@ -372,10 +386,10 @@
     "archetype": "vault_farmer_flipper",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 24545,
-    "durationDays": 2,
-    "marketImbalance": "short_heavy",
-    "points": 78
+    "capitalUsd": 45011,
+    "durationDays": 4,
+    "marketImbalance": "long_heavy",
+    "points": 106
   },
   {
     "id": "u23-24-farmer-deposit",
@@ -386,10 +400,10 @@
     "archetype": "vault_farmer_flipper",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 88897,
-    "durationDays": 5,
-    "marketImbalance": "short_heavy",
-    "points": 149
+    "capitalUsd": 72634,
+    "durationDays": 1,
+    "marketImbalance": "balanced",
+    "points": 135
   },
   {
     "id": "u23-25-farmer-deposit",
@@ -400,10 +414,10 @@
     "archetype": "vault_farmer_flipper",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 27903,
+    "capitalUsd": 99588,
     "durationDays": 3,
     "marketImbalance": "balanced",
-    "points": 84
+    "points": 158
   },
   {
     "id": "u23-26-farmer-deposit",
@@ -414,10 +428,10 @@
     "archetype": "vault_farmer_flipper",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 101964,
-    "durationDays": 2,
-    "marketImbalance": "balanced",
-    "points": 160
+    "capitalUsd": 98171,
+    "durationDays": 5,
+    "marketImbalance": "long_heavy",
+    "points": 157
   },
   {
     "id": "u23-27-farmer-deposit",
@@ -428,24 +442,10 @@
     "archetype": "vault_farmer_flipper",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 112729,
-    "durationDays": 4,
+    "capitalUsd": 70816,
+    "durationDays": 1,
     "marketImbalance": "balanced",
-    "points": 168
-  },
-  {
-    "id": "u23-27-farmer-withdraw",
-    "day": 27,
-    "date": "2026-01-27",
-    "userId": "u23",
-    "userName": "Wendy-023",
-    "archetype": "vault_farmer_flipper",
-    "activityType": "vault",
-    "action": "vault_withdraw",
-    "capitalUsd": 112729,
-    "durationDays": 4,
-    "marketImbalance": "balanced",
-    "points": 168
+    "points": 133
   },
   {
     "id": "u23-28-farmer-deposit",
@@ -456,10 +456,10 @@
     "archetype": "vault_farmer_flipper",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 37446,
-    "durationDays": 1,
+    "capitalUsd": 106959,
+    "durationDays": 3,
     "marketImbalance": "short_heavy",
-    "points": 97
+    "points": 164
   },
   {
     "id": "u23-29-farmer-deposit",
@@ -470,24 +470,10 @@
     "archetype": "vault_farmer_flipper",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 53118,
-    "durationDays": 5,
-    "marketImbalance": "balanced",
-    "points": 115
-  },
-  {
-    "id": "u23-29-farmer-withdraw",
-    "day": 29,
-    "date": "2026-01-29",
-    "userId": "u23",
-    "userName": "Wendy-023",
-    "archetype": "vault_farmer_flipper",
-    "activityType": "vault",
-    "action": "vault_withdraw",
-    "capitalUsd": 53118,
-    "durationDays": 5,
-    "marketImbalance": "balanced",
-    "points": 115
+    "capitalUsd": 81219,
+    "durationDays": 4,
+    "marketImbalance": "long_heavy",
+    "points": 142
   },
   {
     "id": "u23-30-farmer-deposit",
@@ -498,9 +484,9 @@
     "archetype": "vault_farmer_flipper",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 50615,
+    "capitalUsd": 114249,
     "durationDays": 3,
     "marketImbalance": "balanced",
-    "points": 112
+    "points": 169
   }
 ]

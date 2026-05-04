@@ -8,10 +8,10 @@
     "archetype": "loyal_vault_depositor",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 32027,
+    "capitalUsd": 16859,
     "durationDays": 45,
     "marketImbalance": "balanced",
-    "points": 224
+    "points": 162
   },
   {
     "id": "u8-2-loyal-vault",
@@ -22,10 +22,10 @@
     "archetype": "loyal_vault_depositor",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 14942,
-    "durationDays": 42,
+    "capitalUsd": 34550,
+    "durationDays": 82,
     "marketImbalance": "short_heavy",
-    "points": 153
+    "points": 232
   },
   {
     "id": "u8-3-loyal-vault",
@@ -36,10 +36,10 @@
     "archetype": "loyal_vault_depositor",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 10497,
-    "durationDays": 53,
-    "marketImbalance": "long_heavy",
-    "points": 128
+    "capitalUsd": 27381,
+    "durationDays": 70,
+    "marketImbalance": "balanced",
+    "points": 207
   },
   {
     "id": "u8-4-loyal-vault",
@@ -50,10 +50,10 @@
     "archetype": "loyal_vault_depositor",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 6024,
-    "durationDays": 66,
-    "marketImbalance": "long_heavy",
-    "points": 97
+    "capitalUsd": 22396,
+    "durationDays": 73,
+    "marketImbalance": "short_heavy",
+    "points": 187
   },
   {
     "id": "u8-5-loyal-vault",
@@ -64,10 +64,10 @@
     "archetype": "loyal_vault_depositor",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 14460,
-    "durationDays": 83,
-    "marketImbalance": "short_heavy",
-    "points": 150
+    "capitalUsd": 30854,
+    "durationDays": 32,
+    "marketImbalance": "balanced",
+    "points": 220
   },
   {
     "id": "u8-6-loyal-vault",
@@ -78,10 +78,10 @@
     "archetype": "loyal_vault_depositor",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 27400,
-    "durationDays": 53,
-    "marketImbalance": "short_heavy",
-    "points": 207
+    "capitalUsd": 18696,
+    "durationDays": 48,
+    "marketImbalance": "balanced",
+    "points": 171
   },
   {
     "id": "u8-7-loyal-vault",
@@ -92,10 +92,10 @@
     "archetype": "loyal_vault_depositor",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 9628,
-    "durationDays": 86,
-    "marketImbalance": "balanced",
-    "points": 123
+    "capitalUsd": 32189,
+    "durationDays": 57,
+    "marketImbalance": "long_heavy",
+    "points": 224
   },
   {
     "id": "u8-8-loyal-vault",
@@ -106,10 +106,10 @@
     "archetype": "loyal_vault_depositor",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 22933,
-    "durationDays": 48,
-    "marketImbalance": "balanced",
-    "points": 189
+    "capitalUsd": 25823,
+    "durationDays": 86,
+    "marketImbalance": "short_heavy",
+    "points": 201
   },
   {
     "id": "u8-9-loyal-vault",
@@ -120,10 +120,10 @@
     "archetype": "loyal_vault_depositor",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 31260,
-    "durationDays": 57,
-    "marketImbalance": "balanced",
-    "points": 221
+    "capitalUsd": 11326,
+    "durationDays": 78,
+    "marketImbalance": "long_heavy",
+    "points": 133
   },
   {
     "id": "u8-10-loyal-vault",
@@ -134,10 +134,10 @@
     "archetype": "loyal_vault_depositor",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 17323,
-    "durationDays": 43,
-    "marketImbalance": "long_heavy",
-    "points": 165
+    "capitalUsd": 27097,
+    "durationDays": 75,
+    "marketImbalance": "short_heavy",
+    "points": 206
   },
   {
     "id": "u8-11-loyal-vault",
@@ -148,10 +148,10 @@
     "archetype": "loyal_vault_depositor",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 34396,
-    "durationDays": 76,
+    "capitalUsd": 27323,
+    "durationDays": 41,
     "marketImbalance": "short_heavy",
-    "points": 232
+    "points": 207
   },
   {
     "id": "u8-12-loyal-vault",
@@ -162,10 +162,10 @@
     "archetype": "loyal_vault_depositor",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 32485,
-    "durationDays": 60,
-    "marketImbalance": "long_heavy",
-    "points": 225
+    "capitalUsd": 7976,
+    "durationDays": 85,
+    "marketImbalance": "balanced",
+    "points": 112
   },
   {
     "id": "u8-13-loyal-vault",
@@ -176,10 +176,10 @@
     "archetype": "loyal_vault_depositor",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 27068,
-    "durationDays": 51,
-    "marketImbalance": "short_heavy",
-    "points": 206
+    "capitalUsd": 31950,
+    "durationDays": 74,
+    "marketImbalance": "balanced",
+    "points": 223
   },
   {
     "id": "u8-14-loyal-vault",
@@ -190,10 +190,10 @@
     "archetype": "loyal_vault_depositor",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 16026,
-    "durationDays": 56,
+    "capitalUsd": 29114,
+    "durationDays": 75,
     "marketImbalance": "short_heavy",
-    "points": 158
+    "points": 213
   },
   {
     "id": "u8-15-loyal-vault",
@@ -204,10 +204,10 @@
     "archetype": "loyal_vault_depositor",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 16245,
-    "durationDays": 34,
-    "marketImbalance": "balanced",
-    "points": 159
+    "capitalUsd": 31955,
+    "durationDays": 39,
+    "marketImbalance": "long_heavy",
+    "points": 223
   },
   {
     "id": "u8-16-loyal-vault",
@@ -218,10 +218,10 @@
     "archetype": "loyal_vault_depositor",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 33461,
-    "durationDays": 41,
-    "marketImbalance": "long_heavy",
-    "points": 229
+    "capitalUsd": 8239,
+    "durationDays": 32,
+    "marketImbalance": "short_heavy",
+    "points": 113
   },
   {
     "id": "u8-17-loyal-vault",
@@ -232,10 +232,10 @@
     "archetype": "loyal_vault_depositor",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 27972,
-    "durationDays": 69,
-    "marketImbalance": "long_heavy",
-    "points": 209
+    "capitalUsd": 9837,
+    "durationDays": 68,
+    "marketImbalance": "short_heavy",
+    "points": 124
   },
   {
     "id": "u8-18-loyal-vault",
@@ -246,10 +246,10 @@
     "archetype": "loyal_vault_depositor",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 27406,
-    "durationDays": 73,
-    "marketImbalance": "long_heavy",
-    "points": 207
+    "capitalUsd": 30364,
+    "durationDays": 76,
+    "marketImbalance": "short_heavy",
+    "points": 218
   },
   {
     "id": "u8-19-loyal-vault",
@@ -260,10 +260,10 @@
     "archetype": "loyal_vault_depositor",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 8504,
-    "durationDays": 79,
-    "marketImbalance": "long_heavy",
-    "points": 115
+    "capitalUsd": 22377,
+    "durationDays": 34,
+    "marketImbalance": "balanced",
+    "points": 187
   },
   {
     "id": "u8-20-loyal-vault",
@@ -274,10 +274,10 @@
     "archetype": "loyal_vault_depositor",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 5404,
-    "durationDays": 38,
-    "marketImbalance": "short_heavy",
-    "points": 92
+    "capitalUsd": 11516,
+    "durationDays": 54,
+    "marketImbalance": "long_heavy",
+    "points": 134
   },
   {
     "id": "u8-21-loyal-vault",
@@ -288,10 +288,10 @@
     "archetype": "loyal_vault_depositor",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 9250,
-    "durationDays": 80,
-    "marketImbalance": "long_heavy",
-    "points": 120
+    "capitalUsd": 30031,
+    "durationDays": 66,
+    "marketImbalance": "short_heavy",
+    "points": 217
   },
   {
     "id": "u8-22-loyal-vault",
@@ -302,10 +302,10 @@
     "archetype": "loyal_vault_depositor",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 21613,
-    "durationDays": 43,
-    "marketImbalance": "short_heavy",
-    "points": 184
+    "capitalUsd": 15012,
+    "durationDays": 55,
+    "marketImbalance": "balanced",
+    "points": 153
   },
   {
     "id": "u8-23-loyal-vault",
@@ -316,10 +316,10 @@
     "archetype": "loyal_vault_depositor",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 19225,
-    "durationDays": 50,
-    "marketImbalance": "short_heavy",
-    "points": 173
+    "capitalUsd": 7932,
+    "durationDays": 60,
+    "marketImbalance": "long_heavy",
+    "points": 111
   },
   {
     "id": "u8-24-loyal-vault",
@@ -330,10 +330,10 @@
     "archetype": "loyal_vault_depositor",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 24075,
-    "durationDays": 55,
-    "marketImbalance": "short_heavy",
-    "points": 194
+    "capitalUsd": 26420,
+    "durationDays": 44,
+    "marketImbalance": "balanced",
+    "points": 203
   },
   {
     "id": "u8-25-loyal-vault",
@@ -344,10 +344,10 @@
     "archetype": "loyal_vault_depositor",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 22252,
-    "durationDays": 74,
+    "capitalUsd": 23763,
+    "durationDays": 48,
     "marketImbalance": "balanced",
-    "points": 186
+    "points": 193
   },
   {
     "id": "u8-26-loyal-vault",
@@ -358,10 +358,10 @@
     "archetype": "loyal_vault_depositor",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 6462,
-    "durationDays": 33,
-    "marketImbalance": "balanced",
-    "points": 100
+    "capitalUsd": 31187,
+    "durationDays": 77,
+    "marketImbalance": "long_heavy",
+    "points": 221
   },
   {
     "id": "u8-27-loyal-vault",
@@ -372,10 +372,10 @@
     "archetype": "loyal_vault_depositor",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 18630,
-    "durationDays": 51,
+    "capitalUsd": 30959,
+    "durationDays": 84,
     "marketImbalance": "balanced",
-    "points": 171
+    "points": 220
   },
   {
     "id": "u8-28-loyal-vault",
@@ -386,10 +386,10 @@
     "archetype": "loyal_vault_depositor",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 6629,
-    "durationDays": 52,
+    "capitalUsd": 20073,
+    "durationDays": 76,
     "marketImbalance": "short_heavy",
-    "points": 102
+    "points": 177
   },
   {
     "id": "u8-29-loyal-vault",
@@ -400,10 +400,10 @@
     "archetype": "loyal_vault_depositor",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 13744,
-    "durationDays": 89,
-    "marketImbalance": "balanced",
-    "points": 147
+    "capitalUsd": 23075,
+    "durationDays": 31,
+    "marketImbalance": "long_heavy",
+    "points": 190
   },
   {
     "id": "u8-30-loyal-vault",
@@ -414,9 +414,9 @@
     "archetype": "loyal_vault_depositor",
     "activityType": "vault",
     "action": "vault_deposit",
-    "capitalUsd": 33581,
+    "capitalUsd": 15802,
     "durationDays": 53,
     "marketImbalance": "balanced",
-    "points": 229
+    "points": 157
   }
 ]
